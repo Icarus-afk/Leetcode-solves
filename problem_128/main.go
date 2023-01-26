@@ -42,3 +42,4 @@ func longestConsecutive(nums []int)int{
 	}
 	return ans
 }
+//solve
